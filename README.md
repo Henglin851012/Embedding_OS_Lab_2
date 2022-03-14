@@ -1,5 +1,4 @@
-"# lab1-traffic-light-Henglin851012" 
-"# demo" 
+# Sensor and interrupt 
 
 # 作業要求:
 
